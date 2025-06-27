@@ -12,6 +12,9 @@ Simple Body Mass Index (BMI) App
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [License](#brand-name-generator)
+- [Usage](#usage)
+- [Error Fixing](#common-error-fix)
+- [BMI Formula](#📐-bmi-formula)
 - [Contact](#contact)
 
 ## About The Project
